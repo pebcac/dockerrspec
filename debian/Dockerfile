@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER James Turnbull "james@example.com"
+MAINTAINER Preston Davis "pwdavis@gmail.com"
 ENV REFRESHED_AT 2014-06-01
 RUN apt-get update
 RUN apt-get -y install ruby rake
